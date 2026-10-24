@@ -245,3 +245,5 @@ tool completely — there is no uninstaller and no registry entry.
 ---
 
 *red-dead-redemption-2-mod-menu-pack · Updated 2026-10-24 · Shared under the MIT License*
+
+<!-- updated 2026-10-24 -->
