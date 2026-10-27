@@ -181,7 +181,7 @@ Use the green button in the Quick Start section above.
 
 | **Build** | **Date** | **Notes** |
 | --- | --- | --- |
-| 2026.4 | 2026-10-26 | Latest stable, current release |
+| 2026.4 | 2026-10-27 | Latest stable, current release |
 | 2026.3 | earlier | Performance improvements |
 | 2026.2 | earlier | Bug fixes |
 | 2026.1 | earlier | First public build |
@@ -244,4 +244,4 @@ tool completely — there is no uninstaller and no registry entry.
 
 ---
 
-*red-dead-redemption-2-mod-menu-pack · Updated 2026-10-26 · Shared under the MIT License*
+*red-dead-redemption-2-mod-menu-pack · Updated 2026-10-27 · Shared under the MIT License*
